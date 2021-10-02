@@ -17,6 +17,11 @@
   display: inline-block;
   margin: 15px;
 }
+
+.colorPalette{
+  background-color: #FC7705;
+}
+
 .swatch {
    height: 200px;
    width: 170px;
